@@ -40,3 +40,11 @@ La distancia de edición es 4
 ```
 
 > Nota: Puede verficar y comparar resultados del programa con resultados de otra **calculadora de distancias** de edición [ online](https://es.planetcalc.com/1721/).
+
+### Diagrama UML
+
+<br>
+
+<p align="center">
+  <img src="http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KhalidCEU/practica4_p2/refs/heads/main/docs/diagram.puml" alt="Class Diagram" width=30%>
+</p>

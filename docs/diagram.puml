@@ -1,0 +1,14 @@
+@startuml
+
+class Main {
+    +main(String[] args)
+    +usage(int exitstatus)
+}
+
+class CalculadoraDistancias {
+    +calcularDistancia(String s1, String s2): int
+}
+
+Main ..> CalculadoraDistancias : uses
+
+@enduml
